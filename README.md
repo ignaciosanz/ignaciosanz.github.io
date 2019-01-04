@@ -1,2 +1,0 @@
-# githubclass
-# ignaciosanz.github.io
